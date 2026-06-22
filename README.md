@@ -71,7 +71,12 @@ The project was completed as part of CYBER3080 and focuses on security governanc
 - Access Control
 - Risk Management
 
----
+
+## Demonstration Video
+
+Watch the MFA implementation demonstration:
+
+https://youtu.be/ilrPdfNBFns
 
 ## Outcome
 
